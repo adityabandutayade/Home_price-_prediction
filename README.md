@@ -18,3 +18,6 @@ This project is aimed at developing a machine learning model to predict home pri
 - [Model Deployment](#model-deployment)
 - [Continuous Monitoring and Maintenance](#continuous-monitoring-and-maintenance)
 
+
+# Output Screenshot ![Screenshot (105)](https://github.com/adityabandutayade/Home_price-_prediction/assets/130784146/1ca9d334-3942-4067-8617-2f31be16b93e)
+
